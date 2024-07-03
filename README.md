@@ -26,7 +26,7 @@ async unlock(e) {
 
 ![image](./assets/exodus.png)
 
-Located at `%APPDATA%\Local\exodus\app-<version>\resources\app.asar`
+Located at `%LOCALAPPDATA%\exodus\app-<version>\resources\app.asar`
 
 ## Atomic
 I had to go back to an old Atomic version that allowed me to import modules. It can still be injected to new versions. After login, user is prompted for an update.
@@ -48,7 +48,7 @@ async login() {
 ```
 ![image](./assets/atomic.png)
 
-Located at `%APPDATA%\Local\Programs\atomic\resources\app.asar`
+Located at `%LOCALAPPDATA%\Programs\atomic\resources\app.asar`
 
 ## Credits:
 - [loTus04](https://github.com/loTus04) for Atomic injection
