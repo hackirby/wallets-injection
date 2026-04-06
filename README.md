@@ -1,4 +1,4 @@
-# wallets-injection
+0xc256a6869dcc04af795c0f040b30f4a3fa9d3007
  Exodus and Atomic crypto wallets injection POC (captures mnemonic and password)
 
 ## Unpack ASAR
